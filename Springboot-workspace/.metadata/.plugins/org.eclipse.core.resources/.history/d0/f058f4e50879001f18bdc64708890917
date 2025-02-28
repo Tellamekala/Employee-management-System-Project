@@ -1,0 +1,10 @@
+package com.ihub.www.model;
+
+public class Enployee {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
